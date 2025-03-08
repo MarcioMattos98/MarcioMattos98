@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java, Banco de Dados MySQL<br>🎯 Goals: Estagiar e Ingressar na área de TI.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java and MySQL Database<br>🎯 Goals: Get an internship and start a career in IT.</p>
 
 ###
 
